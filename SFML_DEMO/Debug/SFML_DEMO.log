@@ -1,0 +1,13 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (SFML_DEMO.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\Brenda\source\repos\SFML_DEMO\SFML_DEMO\main.cpp(87,142): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Brenda\source\repos\SFML_DEMO\SFML_DEMO\main.cpp(88,87): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Brenda\source\repos\SFML_DEMO\SFML_DEMO\main.cpp(110,144): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Brenda\source\repos\SFML_DEMO\SFML_DEMO\main.cpp(111,87): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Brenda\source\repos\SFML_DEMO\SFML_DEMO\main.cpp(122,149): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Brenda\source\repos\SFML_DEMO\SFML_DEMO\main.cpp(123,87): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Brenda\source\repos\SFML_DEMO\SFML_DEMO\main.cpp(152,149): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Brenda\source\repos\SFML_DEMO\SFML_DEMO\main.cpp(153,87): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Brenda\source\repos\SFML_DEMO\SFML_DEMO\main.cpp(183,150): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Brenda\source\repos\SFML_DEMO\SFML_DEMO\main.cpp(184,87): warning C4018: '<=': signed/unsigned mismatch
+  SFML_DEMO.vcxproj -> C:\Users\Brenda\source\repos\SFML_DEMO\Debug\PROJECT3_COP3503C.exe
